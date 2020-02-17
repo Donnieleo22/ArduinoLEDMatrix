@@ -1,4 +1,5 @@
 # ArduinoLEDMatrix
+This is compatible with only the max7219 from what I'm aware of.
 
 Alright, this is my first time using Github so bare with me please :)
 
